@@ -26,6 +26,8 @@ SECRET_KEY = '$+xxm@amu+ybfq1zf&-&!y(!zorl(qw#*j&64c213=h1b&9*3l'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'root.pythonanywhere.com']
+ALLOWED_HOSTS = ['leekez.pythonanywhere.com']
+
 
 
 # Application definition
